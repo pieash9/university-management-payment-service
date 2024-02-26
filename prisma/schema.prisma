@@ -22,5 +22,5 @@ model Payment {
 
 enum PaymentStatus {
   PENDING
-  PADI
+  PAID
 }
